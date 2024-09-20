@@ -72,6 +72,7 @@ FIRST FIVE ROWS:
 
 
 PLOTTING THE DATA:
+
 ![{76B5D7CA-015E-4613-BE06-89F31DDFFC77}](https://github.com/user-attachments/assets/c10ecbe7-95ec-4fb4-b7d1-8ea6f8a6de70)
 
 
