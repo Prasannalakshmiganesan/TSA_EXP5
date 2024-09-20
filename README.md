@@ -66,8 +66,6 @@ plt.show()
 
 ### OUTPUT:
 
-![{B50B2834-D1DC-4C99-9F5D-401D9EEB9C14}](https://github.com/user-attachments/assets/0758d9be-a57c-4dd8-8761-8049de98a2eb)
-
 FIRST FIVE ROWS:
 
 ![{FCADBF60-E218-4149-A32F-5B5C5B9BF498}](https://github.com/user-attachments/assets/402a1487-8cab-4dc2-b026-d7c55a4f22fd)
