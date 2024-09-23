@@ -6,8 +6,7 @@
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 
 ### AIM:
-To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
-
+To Illustrates how to perform time series analysis and decomposition on the goodreadsbooks dataset
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
